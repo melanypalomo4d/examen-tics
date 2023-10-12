@@ -1,2 +1,0 @@
-# examen-tics
-tics
